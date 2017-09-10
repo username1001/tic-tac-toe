@@ -1,2 +1,2 @@
 # tic-tac-toe
-React tic-tac-toe game
+Follwing along Facebook's React tutorial: https://facebook.github.io/react/tutorial/tutorial.html
