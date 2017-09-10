@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Square from './Square';
 
 class Board extends React.Component {
   renderSquare(i) {
@@ -7,7 +8,7 @@ class Board extends React.Component {
 
   render() {
     const status = 'Next player: X'; 
-     
+
     return (
     <div>
       <div className="status">{status}</div>
